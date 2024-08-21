@@ -1,3 +1,4 @@
+/* General Body Styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -11,7 +12,7 @@ body {
 header {
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
+    padding: 20px 0; /* Increased padding for better spacing */
     text-align: center;
     margin-bottom: 20px;
 }
@@ -23,7 +24,7 @@ section {
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slightly larger shadow for better depth */
 }
 
 /* Project Section */
@@ -32,17 +33,17 @@ section {
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Consistent shadow with section */
 }
 
 /* Project Image Styles */
 .project img {
-    max-width: 50%;
+    max-width: 100%; /* Ensure image is responsive */
     height: auto;
     display: block;
     margin: 20px auto;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; /* Consistent border radius */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Consistent shadow with project section */
 }
 
 /* Headings */
