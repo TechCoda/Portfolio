@@ -15,10 +15,9 @@ Here are some of the key projects I’ve worked on:
 ### Project 1: Spring Boot Travel App
 A backend application built with Spring Boot, helping manage customer reservations and vacation packages.
 
-[GitHub Repository Link]([https://github.com/yourgithublink](https://gitlab.com/wgu-gitlab-environment/student-repos/Rkerkmaz/d288-back-end-programming.git))
+[GitHub Repository Link](https://gitlab.com/wgu-gitlab-environment/student-repos/Rkerkmaz/d288-back-end-programming.git)
 
-![Project Image](countries-vacation-booking.png)
-
+<img src="images/countries-vacation-booking.png" alt="Countries you can book for vacation" width="300">
 
 ## Contact
 
