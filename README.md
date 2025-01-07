@@ -17,7 +17,7 @@ A backend application built with Spring Boot, helping manage customer reservatio
 
 [GitHub Repository Link]([https://github.com/yourgithublink](https://gitlab.com/wgu-gitlab-environment/student-repos/Rkerkmaz/d288-back-end-programming.git))
 
-![Project Image](countries-vacation-booking.png)
+![Project Image](Screen Shot 2024-12-24 at 4.36.35 PM.png)
 
 
 ## Contact
