@@ -25,7 +25,7 @@ A Spring Boot application deployed on **Azure Container Apps** using **Docker**.
 🔗 **[Docker Hub Repository](https://hub.docker.com/r/rkerkmaz/d387_010683870)**  
 
 📸 **Preview:**  
-<img src="Images/Advanced Java/PresentationTime.PNG" alt="D387 Project Screenshot" width="400">  
+<img src="Images/Advanced Java/Reservations.PNG" alt="D387 Project Screenshot" width="400">  
 
 ---
 
