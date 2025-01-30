@@ -35,7 +35,7 @@ A backend application built with Spring Boot to manage customer reservations and
 🔗 **[GitHub Repository](https://gitlab.com/wgu-gitlab-environment/student-repos/Rkerkmaz/d288-back-end-programming.git)**  
 
 📸 **Preview:**  
-<img src="images/countries-vacation-booking.png" alt="Countries available for vacation booking" width="400">  
+<img src="Images/Back-End Application/countries.PNG" alt="Countries available for vacation booking" width="400">  
 
 ---
 
