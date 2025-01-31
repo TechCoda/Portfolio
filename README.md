@@ -39,16 +39,6 @@ A backend application built with Spring Boot to manage customer reservations and
 
 ---
 
-### 🏪 Web-Based Sprint Inventory Management System  
-A real-time inventory management system with CRUD operations, validation, and a purchase feature.  
-
-🔗 **[GitHub Repository](https://gitlab.com/path-to-inventory-project)**  
-
-📸 **Preview:**  
-<img src="images/inventory-dashboard.png" alt="Inventory Dashboard" width="400">  
-
----
-
 ## 📬 Contact  
 
 - 💻 **GitHub:** [github.com/rkerkmaz](https://github.com/rkerkmaz)  
